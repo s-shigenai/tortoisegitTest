@@ -1,6 +1,8 @@
 ‚—‚‰‚Žƒ}[ƒW‚Ä‚·‚Æ
 ·‚µž‚Ýmac
+·‚µž‚Ýwin
 from win
 ·‚µž‚Ýmac
+·‚µž‚Ýwin
 from mac
 from win2
