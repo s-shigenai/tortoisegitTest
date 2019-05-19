@@ -1,5 +1,7 @@
 ‚—‚‰‚Žƒ}[ƒW‚Ä‚·‚Æ
 ·‚µž‚Ýmac
+·‚µž‚Ýmac2
 from win
 ·‚µž‚Ýmac
+·‚µž‚Ýmac2
 from mac
